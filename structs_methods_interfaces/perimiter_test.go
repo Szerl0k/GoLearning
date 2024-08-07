@@ -1,5 +1,7 @@
 package structs_methods_interfaces
 
+//
+
 import "testing"
 
 func TestPerimeter(t *testing.T) {

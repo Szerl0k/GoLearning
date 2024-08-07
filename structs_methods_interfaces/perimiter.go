@@ -1,5 +1,7 @@
 package structs_methods_interfaces
 
+//
+
 import "math"
 
 type Shape interface {
